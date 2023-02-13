@@ -503,6 +503,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree3
       objectReference: {fileID: 0}
+    - target: {fileID: 5575438788728386250, guid: 2cb3558ced9cbb045b7c366bc157876c, type: 3}
+      propertyPath: m_SelectedEditorRenderState
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2cb3558ced9cbb045b7c366bc157876c, type: 3}
 --- !u!1001 &6576903016261759719
